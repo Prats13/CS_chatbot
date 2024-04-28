@@ -1,0 +1,22 @@
+
+{
+    "user_query": "Can I change the color scheme of the mobile app?",
+    "bot_answer": "Currently, our mobile app does not support changing the color scheme. However, we are always looking to improve our services and will take your suggestion into consideration for future updates.",
+    "query_state": "junk",
+    "department": "",
+    "possible_solution": ""
+}
+{
+    "user_query": "I've encountered a technical glitch in your mobile app that has resulted in erroneous transactions and financial losses. How can I escalate this issue to ensure it's addressed promptly, and can I expect compensation for the inconvenience caused?",
+    "bot_answer": "We're sorry to hear about the issue you're experiencing. We understand the urgency and will escalate this to our technical team immediately. As for compensation, we will review the situation and communicate with you about it once we have more information. Please provide us with the details of the erroneous transactions for further investigation.",
+    "query_state": "complex",
+    "department": "Technical Team",
+    "possible_solution": "The user is experiencing a technical glitch that has resulted in erroneous transactions. The technical team should investigate the issue, fix the glitch, and review the transactions for possible compensation."
+}
+{
+    "user_query": "I've noticed unauthorized withdrawals from my account over the past week. What steps should I take to secure my account and recover the lost funds?",
+    "bot_answer": "I'm sorry to hear about this. Please contact our fraud department immediately. They will guide you through the process of securing your account and investigating the unauthorized withdrawals. In the meantime, please do not share your account details with anyone.",
+    "query_state": "complex",
+    "department": "Fraud Department",
+    "possible_solution": "The user is experiencing unauthorized withdrawals. The fraud department should investigate the transactions, secure the account, and initiate the process for fund recovery."
+}
